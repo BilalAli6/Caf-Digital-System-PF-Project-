@@ -11,9 +11,9 @@ This repository hosts the code for the Cafe Digital System (CDS), a comprehensiv
 pointers, arrays, dynamic memory allocation (DMA), and coloring. CDS is designed to simulate a digital system for managing a cafe, providing functionalities
 such as order processing, inventory management, and customer interaction.
 
-To explore my C++ project, [click here](https://drive.google.com/drive/u/0/folders/12Hon_q9_x7x2GAUFvIMfV1UmpMYPsyVD).
+To explore my C++ project, [click here]([https://drive.google.com/drive/u/0/folders/12Hon_q9_x7x2GAUFvIMfV1UmpMYPsyVD](https://drive.google.com/file/d/1So5hrVGsEYJxewbxHlNLthHT4VFWKPJU/view?usp=drive_link)).
 
-To download my C++ project directly, [click here](https://drive.google.com/drive/u/0/folders/12Hon_q9_x7x2GAUFvIMfV1UmpMYPsyVD).
+To download my C++ project directly, [click here]([https://drive.google.com/drive/u/0/folders/12Hon_q9_x7x2GAUFvIMfV1UmpMYPsyVD](https://drive.google.com/file/d/1So5hrVGsEYJxewbxHlNLthHT4VFWKPJU/view?usp=drive_link)).
 
 To explore more of my projects and social media profiles, visit my [Linktree](linktr.ee/bilalalisaif6).
 
